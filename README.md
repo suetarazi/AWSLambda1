@@ -1,6 +1,7 @@
 # AWSLambda1
 ## Alexa Target Heart Rate Skill
 
+Author: Sue Tarazi
 ------------
 
 This is an Amazon Alexa skill written in C# that calculates a user's target heart rate based on their age. 
